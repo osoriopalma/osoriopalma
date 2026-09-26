@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy **Salvador Osorio Palma**
+# 👋 Hola, soy **Salvador Osorio**
 
 ### 💻 Full Stack Developer Junior
 
@@ -10,10 +10,10 @@ Construyo aplicaciones y soluciones de software orientadas a resolver **necesida
 
 <br>
 
-<a href="TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/salvador-osorio-palma/">
   <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/osoriopalma">
   <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -186,11 +186,11 @@ Continuar desarrollándome como **Full Stack Developer**, participando en proyec
 
 <div align="center">
 
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Salvador_Osorio_Palma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/salvador-osorio-palma/">
+<img src="https://img.shields.io/badge/LinkedIn-Salvador_Osorio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/osoriopalma">
 <img src="https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
