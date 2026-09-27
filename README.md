@@ -191,7 +191,7 @@ Continuar desarrollándome como **Full Stack Developer**, participando en proyec
 </a>
 
 <a href="https://github.com/osoriopalma">
-<img src="https://img.shields.io/badge/GitHub-TU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-OSORIOPALMA-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
